@@ -1,0 +1,29 @@
+6
+./instances/brd14051_751.tsp             67143
+./instances/match_brd14051_751.mtc	 1344.1
+
+./instances/d15112_751.tsp             1051873
+./instances/match_d15112_751.mtc       1369.9
+
+./instances/d18512_751.tsp             66422
+./instances/match_d18512_751.mtc       1331.3
+
+./instances/fnl4461_751.tsp             91236
+./instances/match_fnl4461_751.mtc       1276.2
+
+./instances/nrw1379_751.tsp             83129
+./instances/match_nrw1379_751.mtc       1344.4
+
+./instances/pr1002_751.tsp             641919
+./instances/match_pr1002_751.mtc       1359.9
+
+
+
+
+
+
+
+
+
+
+

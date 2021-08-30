@@ -1,0 +1,29 @@
+6
+./instances/brd14051_25.tsp             4341
+./instances/match_brd14051_25.mtc	1
+
+./instances/d15112_25.tsp             97806
+./instances/match_d15112_25.mtc		1
+
+./instances/d18512_25.tsp             4341
+./instances/match_d18512_25.mtc		1
+
+./instances/fnl4461_25.tsp             2285
+./instances/match_fnl4461_25.mtc	1
+
+./instances/nrw1379_25.tsp             3137
+./instances/match_nrw1379_25.mtc	1
+
+./instances/pr1002_25.tsp             18439
+./instances/match_pr1002_25.mtc		1
+
+
+
+
+
+
+
+
+
+
+

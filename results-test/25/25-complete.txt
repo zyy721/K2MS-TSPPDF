@@ -1,0 +1,271 @@
+
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/brd14051_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d15112_25.tsp 	 City_Num: 25 	 Best_known: 97806 	 K2MS: 97806 	 Gap: 0 
+1 20 3 8 4 2 19 10 17 16 12 9 24 18 22 11 7 5 23 6 15 14 13 21 25 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 10 13 7 16 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/d18512_25.tsp 	 City_Num: 25 	 Best_known: 4341 	 K2MS: 4341 	 Gap: 0 
+1 8 19 5 9 18 17 23 20 21 11 4 14 12 25 3 13 7 16 10 2 6 22 24 15 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/fnl4461_25.tsp 	 City_Num: 25 	 Best_known: 2285 	 K2MS: 2285 	 Gap: 0 
+1 5 23 12 10 7 22 17 6 8 19 2 3 11 15 20 9 18 21 24 14 16 4 25 13 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/nrw1379_25.tsp 	 City_Num: 25 	 Best_known: 3137 	 K2MS: 3137 	 Gap: 0 
+1 14 8 13 21 9 5 6 25 23 15 12 7 20 10 3 19 2 4 22 16 18 17 24 11 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
+
+./instances/pr1002_25.tsp 	 City_Num: 25 	 Best_known: 18439 	 K2MS: 18439 	 Gap: 0 
+1 2 5 3 6 8 12 24 23 17 16 15 14 10 9 7 11 13 21 22 25 19 20 18 4 
